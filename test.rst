@@ -523,5 +523,5 @@ mariadb创建zabbix账号密码（zabbix，下面导入数据库输入这个密�
 
 web打开服务器IP地址，按照提示输入信息即可，安装后登录，账号密码默认：Admin/zabbix
 
-.. figure:: C:\Users\LHOS\AppData\Roaming\Typora\typora-user-images\image-20220413182626830.png
+.. figure:: .\image-20220414084420515.png
    :alt: 
